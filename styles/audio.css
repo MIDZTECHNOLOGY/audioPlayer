@@ -30,7 +30,7 @@ i.icon{font-size: 1.5em;}
 /* FOR MOBILE */
 
 @media screen and (max-width: 500px){
-    body{min-width: 200px !important;width: 100%;margin:0 !important;}
+    body{min-width: 200px !important;width: 100%;height:450px;margin:0 !important;}
     .mobile{width: 100% !important;}
     .no_float{float: none !important;}
     .auto_margin{margin: auto !important;}
